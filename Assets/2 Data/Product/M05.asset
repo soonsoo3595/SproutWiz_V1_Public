@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f27bd2bbc18361e48b253c57b0b299f4, type: 3}
+  m_Name: M05
+  m_EditorClassIdentifier: 
+  productID: 15
+  id: M05
+  image: {fileID: 567966111, guid: 137d14c8b9a3a1d438bf13da4cd80de8, type: 3}
+  Name: "\uB9C8\uB825 \uD68C\uBCF5 \uD3EC\uC158"
+  description: "\uC0AC\uC6A9 \uC2DC \uB9C8\uB825 \uCD5C\uB300\uCE58\uAE4C\uC9C0 \uD68C\uBCF5"
+  price: 5
+  itemTier: 1
+  itemType: 3

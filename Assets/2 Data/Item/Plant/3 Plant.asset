@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e984bf785a892974ea143706d844f879, type: 3}
+  m_Name: 3 Plant
+  m_EditorClassIdentifier: 
+  id: 3
+  grade: 4
+  seed: {fileID: 11400000, guid: c35b2b533b5340f47a9bdd92a770833f, type: 2}
+  seedCost: 400
+  firePlants:
+  - {fileID: 21300000, guid: 371ca676c9d5ea4449b920bbdf67b78f, type: 3}
+  - {fileID: 21300000, guid: 39a5e4308cfc5314587ca60ca9964064, type: 3}
+  - {fileID: 21300000, guid: 39a5e4308cfc5314587ca60ca9964064, type: 3}
+  fireHarvest: {fileID: 11400000, guid: b384e05baab0d284bbf009bbeed1626b, type: 2}
+  waterPlants:
+  - {fileID: 21300000, guid: d5061650453f36f4d9c0a839f3136bf6, type: 3}
+  - {fileID: 21300000, guid: b1d11224fa091fb4c8401cc39b5da7ef, type: 3}
+  - {fileID: 21300000, guid: b1d11224fa091fb4c8401cc39b5da7ef, type: 3}
+  waterHarvest: {fileID: 11400000, guid: ce4669de0e4d6d0479dd7800e6ce7de2, type: 2}
+  grassPlants:
+  - {fileID: 21300000, guid: 86bf0ed329727b342bbf7ee8ab748bd2, type: 3}
+  - {fileID: 21300000, guid: bdaaa3b20f88ace48b50b9ea00aa30b1, type: 3}
+  - {fileID: 21300000, guid: bdaaa3b20f88ace48b50b9ea00aa30b1, type: 3}
+  grassHarvest: {fileID: 11400000, guid: ce6d584785bfb464e868d4366b88b55a, type: 2}
+  harvestCost: 600
